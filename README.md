@@ -1,2 +1,2 @@
-# trigonometry-calc
-an app for trigonometry calculation
+# iCalc
+An Calculator Ipad App 
